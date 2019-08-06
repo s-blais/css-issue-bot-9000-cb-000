@@ -19,5 +19,5 @@ h2 {
 
 #tasks .completed {
   backgound: #ccc;
-  text-decoration: strikethrough;
+  text-decoration: line-through;
 }
